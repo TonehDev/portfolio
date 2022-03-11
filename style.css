@@ -7,6 +7,30 @@
 html{
     scroll-behavior: smooth;
 }
+.scrollToTop-btn{
+  z-index: 999;
+  position: fixed;
+  background: #1f1f1f;
+  color: #fff;
+  width: 45px;
+  height: 45px;
+  right: 0;
+  bottom: 10px;
+  font-size: 22px;
+  text-align: center;
+  line-height: 45px;
+  border-radius: 3px;
+  cursor: pointer;
+  pointer-events: none;
+  opacity: 0;
+  transition: all 0.3s ease;
+}
+
+.scrollToTop-btn.active{
+  right: 20px;
+  opacity: 1;
+  pointer-events: auto;
+}
 ::-webkit-scrollbar{
     display: none;
 }
