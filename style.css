@@ -153,13 +153,19 @@ nav .fa{
     display: none;
 }
 
-@media(max-width: 300px){
+@media(max-width: 700px){
     .text-box h1{
         color: #fefeff;
         font-size: 40px;
     }
     .nav-links ul li{
         display: block;
+    }
+    .row{
+        flex-direction: column; 
+    }
+    .knowledge-col{
+        flex-direction: column;
     }
 }
 
