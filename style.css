@@ -141,6 +141,7 @@ nav .fa{
   border-radius: 25px;
   padding: 20px 12px;
   transition: 0.2s;
+  box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 }
 .knowledge-col:hover{
   box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
