@@ -74,7 +74,7 @@ nav{
   transform: translate(-50%,-50%);
   text-align: center;
 }
-.knowledge{
+.kl{
   width: 90%;
   position: absolute;
   top: 130%;
@@ -82,11 +82,11 @@ nav{
   transform: translate(-50%,-50%);
   text-align: center;
 }
-.knowledge p{
+.kl p{
   font-size: 20px;
   color: #b3b4b5;
 }
-.knowledge h1{
+.kl h1{
   color: white;
   font-size: 32px;
 }
@@ -168,7 +168,7 @@ nav .fa{
 }
 
 /*------------------projects-------------------*/
-.projects{
+.pj{
   width: 90%;
   position: absolute;
   top: 205%;
@@ -176,17 +176,17 @@ nav .fa{
   transform: translate(-50%,-50%);
   text-align: center;
 }
-.projects h1{
+.pj h1{
   color: white;
   font-size: 32px;
 }
-.projects p{
+.pj p{
   color: #b3b4b5;
   font-size: 20px;
 }
 
 /*-------------------socials------------------*/
-.socials{
+.sc{
   width: 90%;
   position: absolute;
   top: 280%;
@@ -194,11 +194,11 @@ nav .fa{
   transform: translate(-50%,-50%);
   text-align: center;
 }
-.socials h1{
+.sc h1{
   color: white;
   font-size: 32px;
 }
-.socials p{
+.sc p{
   color: #b3b4b5;
   font-size: 20px;
 }
@@ -223,7 +223,7 @@ nav .fa{
 }
 
 @media(max-width: 700px){
-  .socials{
+  .sc{
     width: 90%;
     position: absolute;
     top: 490%;
@@ -231,11 +231,11 @@ nav .fa{
     transform: translate(-50%,-50%);
     text-align: center;
   }
-  .socials h1{
+  .sc h1{
     color: white;
     font-size: 20px;
   }
-  .socials p{
+  .sc p{
     color: #b3b4b5;
     font-size: 18px;
   }
@@ -274,7 +274,7 @@ nav .fa{
     background: #181818;
     transition: 0.3s;
   }
-  .knowledge{
+  .kl{
     width: 90%;
     position: absolute;
     top: 180%;
@@ -282,15 +282,15 @@ nav .fa{
     transform: translate(-50%,-50%);
     text-align: center;
   }
-  .knowledge p{
+  .kl p{
     font-size: 18px;
     color: #b3b4b5;
   }
-  .knowledge h1{
+  .kl h1{
     color: white;
     font-size: 20px;
   }
-  .projects{
+  .pj{
     width: 90%;
     position: absolute;
     top: 350%;
@@ -298,11 +298,11 @@ nav .fa{
     transform: translate(-50%,-50%);
     text-align: center;
   }
-  .projects h1{
+  .pj h1{
     color: white;
     font-size: 20px;
   }
-  .projects p{
+  .pj p{
     color: #b3b4b5;
     font-size: 18px;
   }
