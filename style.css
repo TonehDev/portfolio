@@ -7,16 +7,104 @@
 html{
   scroll-behavior: smooth;
 }
-::-webkit-scrollbar{
+.bnb{
+  background:#101010;
+}
+::-webkit-scrollbar {
   display: none;
+}
+.rd{
+  text-decoration: none;
+  color: gray;
+  size: 1px;
+}
+img{
+  border-radius: 10px;
+}
+.rd:hover{
+  text-decoration: none;
+  color: white;
+}
+.windows{
+  text-decoration: none;
+  color: gray;
+}
+.windows:hover{
+  text-decoration: none;
+  color: lightblue;
+}
+.yt{
+  text-decoration: none;
+  color: gray;
+}
+.yt:hover{
+  text-decoration: none;
+  color: white;
+}
+.dc{
+  text-decoration: none;
+  color: gray;
+}
+.dc:hover{
+  text-decoration: none;
+  color: white;
+}
+.gh{
+  text-decoration: none;
+  color: gray;
+}
+.gh:hover{
+  text-decoration: none;
+  color: white;
+}
+.java{
+  text-decoration: none;
+  color: gray;
+}
+.java:hover{
+  text-decoration: none;
+  color: white;
+}
+.py{
+  text-decoration: none;
+  color: gray;
+}
+.py:hover{
+  text-decoration: none;
+  color: white;
+}
+.css{
+  text-decoration: none;
+  color: gray;
+}
+.css:hover{
+  text-decoration: none;
+  color: white;
+}
+.html{
+  text-decoration: none;
+  color: gray;
+}
+.html:hover{
+  text-decoration: none;
+  color: white;
+}
+.js{
+  text-decoration: none;
+  color: gray;
+}
+.js:hover{
+  text-decoration: none;
+  color: white;
 }
 .header{
   min-height: 100vh;
   width: 100%;
   background-color: #1f1e1e;
 }
-img{
-  border-radius: 10px;
+.navtxt{
+  color: white;
+  font-size: 18px;
 }
 .fa-light fa-xmark{
   color: white;
@@ -59,11 +147,11 @@ nav{
 
 .text-box h1{
   color: #fefeff;
-  font-size: 40px;
+  font-size: 50px;
 }
 .text-box p{
   color : #b3b4b5;
-  font-size: 20px;
+  font-size: 25px;
   text-decoration: none;
 }
 .text-box{
@@ -83,18 +171,18 @@ nav{
   text-align: center;
 }
 .kl p{
-  font-size: 20px;
+  font-size: 25px;
   color: #b3b4b5;
 }
 .kl h1{
   color: white;
-  font-size: 32px;
+  font-size: 50px;
 }
 .kl-btn{
   display: inline-block;
   text-decoration: none;
   padding: 12px 34px;
-  font-size: 15px;
+  font-size: 20px;
   background: #141414;
   position: relative;
   cursor: pointer;
@@ -128,6 +216,12 @@ nav .fa{
   display: none;
 }
 
+.row2{
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+
 
 
 /*--------------knowledge--------------*/
@@ -136,12 +230,20 @@ nav .fa{
   display: flex;
   justify-content: space-between;
 }
+.icons-col{
+  flex-basis: 20%;  
+  border-radius: 25px;
+  padding: 20px 12px;
+  color: gray;
+}
 .knowledge-col{
   flex-basis: 20%;  
   border-radius: 25px;
   padding: 20px 12px;
-  transition: 0.2s;
-  box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
+  color: gray;
+  background: #101010;
+  transition: 0.3s;
+  border-spacing: 10vh;
 }
 .knowledge-col:hover{
   box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
@@ -161,10 +263,17 @@ nav .fa{
   }
   .row{
       flex-direction: column; 
+      display: flex;
   }
   .knowledge-col{
       flex-direction: column;
   }
+  .icons-col{
+      flex-direction: column;
+  }
+  .icons-col h1{
+    flex-direction: column;
+}
 }
 
 /*------------------projects-------------------*/
@@ -178,11 +287,21 @@ nav .fa{
 }
 .pj h1{
   color: white;
-  font-size: 32px;
+  font-size: 50px;
+}
+.pj h2{
+  color: white;
+  font-size: 50px;
+  background: #101010;
+}
+.pj p2{
+  color: white;
+  font-size: 25px;
+  background: #101010;
 }
 .pj p{
   color: #b3b4b5;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 /*-------------------socials------------------*/
@@ -196,11 +315,11 @@ nav .fa{
 }
 .sc h1{
   color: white;
-  font-size: 32px;
+  font-size: 50px;
 }
 .sc p{
   color: #b3b4b5;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 /*------------------------footer---------------------------*/
@@ -301,6 +420,14 @@ nav .fa{
   .pj h1{
     color: white;
     font-size: 20px;
+  }
+  .pj h2{
+    color: white;
+    font-size: 20px;
+  }
+  .pj p2{
+    color: #b3b4b5;
+    font-size: 18px;
   }
   .pj p{
     color: #b3b4b5;
