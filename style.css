@@ -156,7 +156,7 @@ nav{
 .text-box h1{
   color: #fefeff;
   font-size: 50px;
-  background: -webkit-linear-gradient(135deg,#00d0ff,#ff00f7);
+  background: -webkit-linear-gradient(#00d0ff,#ff00f7);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -249,15 +249,14 @@ nav .fa{
 }
 .knowledge-col{
   flex-basis: 20%;  
-  border-radius: 25px;
-  padding: 20px 12px;
+  border-radius: 10px;
   color: gray;
-  background: #101010;
+  box-shadow: 0 0 20px 0px black;
   transition: 0.3s;
-  border-spacing: 10vh;
+  border: 10px solid rgb(75, 75, 75);
 }
 .knowledge-col:hover{
-  box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
+  box-shadow: none;
 }
 @media(max-width: 300px){
   .row{
