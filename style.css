@@ -25,6 +25,14 @@ img{
   text-decoration: none;
   color: white;
 }
+.mongodb{
+  text-decoration: none;
+  color: gray;
+}
+.mongodb:hover{
+  text-decoration: none;
+  color: #0067ff;
+}
 .windows{
   text-decoration: none;
   color: gray;
