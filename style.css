@@ -156,7 +156,7 @@ nav{
 .text-box h1{
   color: #fefeff;
   font-size: 50px;
-  background: -webkit-linear-gradient(#00d0ff,#ff00f7);
+  background: -webkit-linear-gradient(0deg, #00d0ff,#ff00f7);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
