@@ -253,7 +253,7 @@ nav .fa{
   color: gray;
   box-shadow: 0 0 20px 0px black;
   transition: 0.3s;
-  border: 10px solid #336699;
+  border: 10px solid #5a5a5a;
 }
 .knowledge-col:hover{
   box-shadow: none;
