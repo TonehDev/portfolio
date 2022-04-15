@@ -1,0 +1,13 @@
+"STYLE":{
+  "FONT": "SATOSHI",
+  "ICONS": "FONT_AWESOME",
+  "IMAGES": "CUSTOM",
+  "EMBED": "OG_TAGS"
+}
+
+"INFO":{
+  "PROJECTS": "GITHUB",
+  "SOCIALS": "PLATFORM",
+  "KNOWLEDGE": "NA",
+  "IMAGES": "DIR/ASSETS"
+}
