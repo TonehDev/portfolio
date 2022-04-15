@@ -7,6 +7,9 @@
 html{
   scroll-behavior: smooth;
 }
+.highlight{
+  color: #7405e3;
+}
 .bnb{
   background:#101010;
 }
