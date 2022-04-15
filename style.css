@@ -7,6 +7,10 @@
 html{
   scroll-behavior: smooth;
 }
+.normal{
+  color: #fff;
+  font-size: 50px;
+}
 .highlight{
   color: #4231d6;
 }
@@ -374,6 +378,9 @@ nav .fa{
     color: #4231d6;
     font-size: 25px;
   }
+  .normal{
+    color: #fff;
+    font-size: 25px;
   .text-box p{
     color : #b3b4b5;
     font-size: 18px;
