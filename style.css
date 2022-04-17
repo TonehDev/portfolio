@@ -377,8 +377,10 @@ nav .fa{
     background: #333abd;
   }
   .text-box h1{
-    color: #4231d6;
     font-size: 25px;
+    background: -webkit-linear-gradient(120deg, #ff00f7, #00d00f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
   .normal{
     color: #fff;
