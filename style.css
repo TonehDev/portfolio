@@ -161,6 +161,9 @@ nav{
 }
 
 .text-box h1{
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
   font-size: 50px;
   background: -webkit-linear-gradient(120deg, #ff00f7, #00d00f);
   -webkit-background-clip: text;
@@ -377,6 +380,9 @@ nav .fa{
     background: #333abd;
   }
   .text-box h1{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
     font-size: 25px;
     background: -webkit-linear-gradient(120deg, #ff00f7, #00d00f);
     -webkit-background-clip: text;
