@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   font-family: 'Satoshi', sans-serif;
-  background-color: #192824;
+  background-color: #1f1f1e;
 }
 .normal{
   color: white;
@@ -259,7 +259,7 @@ nav .fa{
   color: gray;
   box-shadow: 0 0 20px 0px black;
   transition: 0.3s;
-  border: 5px solid #1FC11B;
+  border: 5px solid #101010;
 }
 .knowledge-col:hover{
   box-shadow: none;
@@ -303,7 +303,7 @@ nav .fa{
   text-align: center;
 }
 .pj h1{
-  color: #1FC11B;
+  color: white;
   font-size: 50px;
 }
 .pj h2{
