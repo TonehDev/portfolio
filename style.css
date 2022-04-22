@@ -283,7 +283,7 @@ nav .fa{
       flex-direction: column;
   }
 }
-@media(max-width: 1200px){
+@media(max-width: 700px){
   .nav-links ul li{
       display: block;
   }
@@ -366,7 +366,7 @@ nav .fa{
   color: #b3b4b5;
 }
 
-@media(max-width: 1200px){
+@media(max-width: 700px){
   .sc{
     width: 90%;
     position: absolute;
