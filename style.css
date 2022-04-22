@@ -482,13 +482,9 @@ nav .fa{
     display: none;
   }
   .text-box h1{
-    font-size: 20px;
-    background: -webkit-linear-gradient(#FF605D, #FEE27A);
+    font-size: 25px;
+    background: -webkit-linear-gradient(90deg, #FF605D, #FEE27A);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-  }
-  .img{
-    width: 64px;
-    height: 64px;
   }
 }
