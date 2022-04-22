@@ -16,6 +16,7 @@ html{
 }
 ::-webkit-scrollbar {
   background: transparent;
+  color: white;
 }
 .rd{
   text-decoration: none;
