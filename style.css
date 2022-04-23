@@ -63,16 +63,7 @@ html{
 .highlight{
   color: #4231d6;
 }
-::-webkit-scrollbar {
-  background: transparent;
-}
-::-webkit-scrollbar-thumb {
-  color: white;
-  border-radius: 10px;
-}
-::-webkit-scrollbar-corner {
-  border-radius: 10px;
-}
+
 .rd{
   text-decoration: none;
   color: gray;
