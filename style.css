@@ -85,6 +85,14 @@ img{
   text-decoration: none;
   color: white;
 }
+.tw{
+  text-decoration: none;
+  color: gray;
+  transition: 0.3s;
+}
+.tw:hover{
+  text-decoration: none;
+  co
 .mongodb{
   text-decoration: none;
   color: gray;
