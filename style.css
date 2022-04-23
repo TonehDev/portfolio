@@ -5,7 +5,7 @@
   background-color: #1f1e1e;
 }
 .text-box h1{
-  font-size: 50px;
+  font-size: 35px;
   background: -webkit-linear-gradient(#FF605D, #FEE27A);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -55,7 +55,7 @@ nav{
 }
 .normal-text{
   color: #fff;
-  font-size: 50px;
+  font-size: 35px;
 }
 html{
   scroll-behavior: smooth;
@@ -226,7 +226,7 @@ img{
 }
 .kl h1{
   color: white;
-  font-size: 50px;
+  font-size: 35px;
 }
 .kl-btn{
   display: inline-block;
@@ -342,7 +342,7 @@ nav .fa{
 }
 .pj h1{
   color: white;
-  font-size: 50px;
+  font-size: 35px;
 }
 .pj h2{
   color: white;
@@ -368,7 +368,7 @@ nav .fa{
 }
 .sc h1{
   color: white;
-  font-size: 50px;
+  font-size: 35px;
 }
 .sc p{
   color: #b3b4b5;
