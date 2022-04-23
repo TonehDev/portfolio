@@ -92,7 +92,8 @@ img{
 }
 .tw:hover{
   text-decoration: none;
-  co
+  color: white;
+}
 .mongodb{
   text-decoration: none;
   color: gray;
