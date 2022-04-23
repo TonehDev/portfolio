@@ -62,6 +62,7 @@ html{
   text-decoration: none;
   color: gray;
   size: 1px;
+  transition: 0.3s;
 }
 img{
   border-radius: 10px;
@@ -78,6 +79,7 @@ img{
 .mongodb{
   text-decoration: none;
   color: gray;
+  transition: 0.3s;
 }
 .mongodb:hover{
   text-decoration: none;
@@ -86,6 +88,7 @@ img{
 .windows{
   text-decoration: none;
   color: gray;
+  transition: 0.3s;
 }
 .windows:hover{
   text-decoration: none;
@@ -94,6 +97,7 @@ img{
 .yt{
   text-decoration: none;
   color: gray;
+  transition: 0.3s;
 }
 .yt:hover{
   text-decoration: none;
@@ -102,6 +106,7 @@ img{
 .dc{
   text-decoration: none;
   color: gray;
+  transition: 0.3s;
 }
 .dc:hover{
   text-decoration: none;
@@ -110,6 +115,7 @@ img{
 .gh{
   text-decoration: none;
   color: gray;
+  transition: 0.3s;
 }
 .gh:hover{
   text-decoration: none;
@@ -118,6 +124,7 @@ img{
 .java{
   text-decoration: none;
   color: gray;
+  transition: 0.3s;
 }
 .java:hover{
   text-decoration: none;
@@ -126,6 +133,7 @@ img{
 .py{
   text-decoration: none;
   color: gray;
+  transition: 0.3s;
 }
 .py:hover{
   text-decoration: none;
@@ -134,6 +142,7 @@ img{
 .css{
   text-decoration: none;
   color: gray;
+  transition: 0.3s;
 }
 .css:hover{
   text-decoration: none;
@@ -142,6 +151,7 @@ img{
 .html{
   text-decoration: none;
   color: gray;
+  transition: 0.3s;
 }
 .html:hover{
   text-decoration: none;
@@ -150,6 +160,7 @@ img{
 .js{
   text-decoration: none;
   color: gray;
+  transition: 0.3s;
 }
 .js:hover{
   text-decoration: none;
