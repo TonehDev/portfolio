@@ -6,7 +6,7 @@
 }
 .text-box h1{
   font-size: 35px;
-  background: -webkit-linear-gradient(#FF605D, #FEE27A);
+  background: linear-gradient(#FF605D, #FEE27A);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
