@@ -21,7 +21,7 @@ html {
 .footer{
   width: 90%;
   position: absolute;
-  top: 145%;
+  top: 149%;
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
@@ -160,7 +160,7 @@ img {
 .how {
   width: 90%;
   position: absolute;
-  top: 120%;
+  top: 117%;
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
