@@ -90,21 +90,21 @@ img {
   text-align: center;
 }
 
-.text-box two {
+.how {
   width: 90%;
   position: absolute;
-  top: 170%;
+  top: 200%;
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
 }
 
-.text-box two h1 {
+.how two h1 {
   color: #fefeff;
   font-size: 40px;
 }
 
-.text-box two p {
+.how two p {
   color : #b3b4b5;
   font-size: 25px;
   text-decoration: none;
