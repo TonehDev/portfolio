@@ -93,18 +93,18 @@ img {
 .how {
   width: 90%;
   position: absolute;
-  top: 200%;
+  top: 150%;
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
 }
 
-.how two h1 {
+.how h1 {
   color: #fefeff;
   font-size: 40px;
 }
 
-.how two p {
+.how p {
   color : #b3b4b5;
   font-size: 25px;
   text-decoration: none;
