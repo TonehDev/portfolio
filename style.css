@@ -15,6 +15,24 @@ html {
 -webkit-text-fill-color: transparent;
 }
 
+.french-blue {
+  color: #3361FF;
+  text-decoration: none;
+  font-size: 40px;
+}
+
+.french-white {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 40px;
+}
+
+.french-red {
+  color: #EF4135;
+  text-decoration: none;
+  font-size: 40px;
+}
+
 .link {
   color: #5865F2;
   text-decoration: none;
@@ -93,7 +111,7 @@ img {
 .how {
   width: 90%;
   position: absolute;
-  top: 150%;
+  top: 100%;
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
