@@ -126,7 +126,7 @@ img {
 .how {
   width: 90%;
   position: absolute;
-  top: 130%;
+  top: 120%;
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
@@ -134,7 +134,7 @@ img {
 
 .how h1 {
   color: #fefeff;
-  font-size: 35px;
+  font-size: 40px;
 }
 
 .how p {
