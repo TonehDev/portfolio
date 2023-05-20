@@ -90,13 +90,24 @@ img {
   text-align: center;
 }
 
-.how {
+.text-box 2 {
   width: 90%;
   position: absolute;
-  top 50%;
+  top 70%;
   left: 50%;
-  transform: translate(-80%,-80%);
+  transform: translate(-50%,-50%);
   text-align: center;
+}
+
+.text-box 2 h1 {
+  color: #fefeff;
+  font-size: 40px;
+}
+
+.text-box 2 p {
+  color : #b3b4b5;
+  font-size: 25px;
+  text-decoration: none;
 }
 
 .btn-normal {
