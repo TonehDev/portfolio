@@ -93,7 +93,7 @@ img {
 .text-box 2 {
   width: 90%;
   position: absolute;
-  top 70%;
+  top: 170%;
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
