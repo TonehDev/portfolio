@@ -111,13 +111,13 @@ img {
 .how {
   width: 90%;
   position: absolute;
-  top: 100%;
+  top: 130%;
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
 }
 
-.how h1 {
+.how-easy h1 {
   color: #fefeff;
   font-size: 40px;
 }
